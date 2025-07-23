@@ -15,7 +15,6 @@
 1. Descarga el ZIP `SBT_Forensics_CLI.zip` desde el enlace del curso.  
 2. Cópialo a tu máquina virtual Kali/Ubuntu.  
 3. Descomprímelo y entra al directorio:  
-```bash
 unzip SBT_Forensics_CLI.zip
 cd SBT_Forensics_CLI
 
