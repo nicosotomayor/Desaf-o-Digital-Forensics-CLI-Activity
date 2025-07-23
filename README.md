@@ -21,7 +21,7 @@ cd SBT_Forensics_CLI
 ---
 
 
-##❓ Preguntas 
+## ❓ Preguntas 
 
 1.¿Cuál es la frase que aparece en la línea 8 del primer archivo .txt que encuentres?
 
