@@ -22,6 +22,7 @@ cd SBT_Forensics_CLI
 
 
 ##❓ Preguntas 
+
 1.¿Cuál es la frase que aparece en la línea 8 del primer archivo .txt que encuentres?
 
 2.¿Cuántos archivos de imagen hay en el directorio /Home/PersonalFiles/Photos/?
