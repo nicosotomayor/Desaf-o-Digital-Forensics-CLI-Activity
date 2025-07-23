@@ -1,18 +1,32 @@
-# Desaf-o-Digital-Forensics-CLI-Activity
 
-[Ir al módulo “Linux Command‑Line Interface” – Introduction to Digital Forensics](https://elearning.securityblue.team/home/courses/free-courses/introduction-to-digital-forensics#content#linux-cli#linux-command-line-interface#linux-cli-activity-and-quiz)
 
-Para practicar los comandos básicos de Linux orientados a **Forense Digital**, descarga y usa el entorno de laboratorio:
 
-1. **Descarga** el ZIP `SBT_Forensics_CLI.zip` desde el enlace del curso.  
-2. **Cópialo** a tu máquina virtual Kali/Ubuntu y descomprímelo:  
-   ```bash
-   unzip SBT_Forensics_CLI.zip
-   cd SBT_Forensics_CLI
 
-1.¿Cuál es la frase de la línea 8 del primer archivo de texto que encuentra?
-2.¿Cuántas imágenes hay en el directorio /Home/PersonalFiles/Photos/?
-3.Hay dos archivos con extensiones incorrectas. ¿Cuáles son sus nombres? (Sin las extensiones)
-4.Uno de estos archivos de extensión incorrectos oculta un mensaje, ¿qué es?
-5.Hay un archivo de texto cuyo nombre incluye la cadena "datos bancarios". ¿Cuál es el nombre completo?
-6.¿Cuál es el valor de la bandera dentro del archivo de texto dentro del directorio oculto?
+# 🕵️‍♂️ Actividad CLI: Digital Forensics
+
+**Módulo:** “Interfaz de línea de comandos de Linux” – Introducción a la informática forense  
+**Enlace al curso:**  
+<https://elearning.securityblue.team/home/courses/free-courses/introduction-to-digital-forensics#content#linux-cli#linux-command-line-interface#linux-cli-activity-and-quiz>
+
+---
+
+## 📥 Preparación del entorno
+
+1. Descarga el ZIP `SBT_Forensics_CLI.zip` desde el enlace del curso.  
+2. Cópialo a tu máquina virtual Kali/Ubuntu.  
+3. Descomprímelo y entra al directorio:  
+```bash
+unzip SBT_Forensics_CLI.zip
+cd SBT_Forensics_CLI
+
+---
+
+### ❓ Preguntas 
+1. ¿Cuál es la frase que aparece en la línea 8 del primer archivo .txt que encuentres?
+2. ¿Cuántos archivos de imagen hay en el directorio /Home/PersonalFiles/Photos/?
+3.  Hay dos archivos cuyo sufijo no coincide con su contenido. ¿Cuáles son sus nombres sin la extensión?
+4.  Uno de esos archivos de extensión incorrecta oculta un mensaje. ¿Cuál es el mensaje?
+5. Busca un archivo .txt cuyo nombre incluya la cadena datos bancarios. ¿Cuál es su nombre completo (incluida la extensión)?
+6.Dentro de un directorio cuyo nombre comienza por . (oculto), hay un archivo .txt que contiene una bandera. ¿Cuál es el valor de la bandera dentro de ese archivo?
+
+---
